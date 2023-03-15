@@ -1,7 +1,7 @@
 
 TOPIC
 
-    Auto deploy jenkins with docker and docker compose.
+    Auto deploy jenkins with pre deploy job with docker and docker compose.
 
 SHORT DESCRIPTION
 
