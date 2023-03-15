@@ -1,7 +1,7 @@
 
 TOPIC
 
-    Auto deploy jenkins witch docker and docker compose.
+    Auto deploy jenkins with docker and docker compose.
 
 SHORT DESCRIPTION
 
