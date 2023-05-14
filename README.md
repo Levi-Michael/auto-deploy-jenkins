@@ -27,3 +27,7 @@ SHORT DESCRIPTION
 HOW TO RUN
 	
     Clone this Git and run docker-compose up
+    
+IMAGE
+
+![](Images/0.png)
