@@ -65,6 +65,8 @@ This project automates the deployment of a Jenkins server pre-configured with se
 - [Docker Documentation](https://docs.docker.com/)
 - [Docker Compose Documentation](https://docs.docker.com/compose/)
 
+
 ## Contact
 
-Feel free to reach out for questions or collaboration opportunities! or suggestions, open an issue or contact me directly through my [GitHub profile](https://github.com/Levi-Michael).
+Feel free to reach out for questions or collaboration opportunities or suggestions, open an issue or contact me directly through my [GitHub profile](https://github.com/Levi-Michael).
+
